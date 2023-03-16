@@ -81,7 +81,7 @@ namespace bai_1._1
                */
 
             // cấu trúc lụa chon swich - case
-
+            /*
             Console.Write("nhap gia tri cho n de biet thu trong tuan: ");
 
             int n = Convert.ToInt32(Console.ReadLine());
@@ -110,7 +110,42 @@ namespace bai_1._1
                     Console.WriteLine("chu nhat");
                     break;
             }
-                
+                */
+            int[,] matrix = new int[3, 3]; // khởi tạo ma trận 3x3
+
+            // nhập giá trị cho ma trận
+            Console.WriteLine("Nhập giá trị cho ma trận: ");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"[{i}, {j}] = ");
+                    matrix[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            // tính tổng các phần tử trong ma trận
+            int sum = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    sum += matrix[i, j];
+                }
+            }
+
+            // hiển thị ma trận và tổng các phần tử trong ma trận
+            Console.WriteLine("Ma trận vừa nhập là:");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"{matrix[i, j]} ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine($"Tổng các phần tử trong ma trận là: {sum}");
+
 
             Console.ReadLine();
         }

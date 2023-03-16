@@ -6,3 +6,11 @@ D:\Học code c#\bai 1.1\obj\Debug\bai 1.1.csproj.SuggestedBindingRedirects.cach
 D:\Học code c#\bai 1.1\obj\Debug\bai 1.1.csproj.CoreCompileInputs.cache
 D:\Học code c#\bai 1.1\obj\Debug\bai 1.1.exe
 D:\Học code c#\bai 1.1\obj\Debug\bai 1.1.pdb
+D:\Code github\Demo-C-Sharp\bai 1.1\bin\Debug\bai 1.1.exe.config
+D:\Code github\Demo-C-Sharp\bai 1.1\bin\Debug\bai 1.1.exe
+D:\Code github\Demo-C-Sharp\bai 1.1\bin\Debug\bai 1.1.pdb
+D:\Code github\Demo-C-Sharp\bai 1.1\obj\Debug\bai 1.1.csproj.AssemblyReference.cache
+D:\Code github\Demo-C-Sharp\bai 1.1\obj\Debug\bai 1.1.csproj.SuggestedBindingRedirects.cache
+D:\Code github\Demo-C-Sharp\bai 1.1\obj\Debug\bai 1.1.csproj.CoreCompileInputs.cache
+D:\Code github\Demo-C-Sharp\bai 1.1\obj\Debug\bai 1.1.exe
+D:\Code github\Demo-C-Sharp\bai 1.1\obj\Debug\bai 1.1.pdb
